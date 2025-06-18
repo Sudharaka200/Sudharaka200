@@ -2,7 +2,7 @@
 
 ### Software Engineering Undergraduate | NIBM Sri Lanka
 
-![Profile views](https://komarev.com/ghpvc/?username=sudharaka200&label=Profile%20views&color=0e75b6&style=flat)---
+![Profile views](https://komarev.com/ghpvc/?username=sudharaka200&label=Profile%20views&color=0e75b6&style=flat)
 
 🎓 Pursuing **BSc (Hons) in Software Engineering** at **NIBM Sri Lanka** (2023–2027)\
 🌟 Seeking a Software Engineering internship to gain real-world experience\
