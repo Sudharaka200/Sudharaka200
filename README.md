@@ -4,7 +4,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=sudharaka200&label=Profile%20views&color=0e75b6&style=flat)
 
-🎓 Pursuing **BSc (Hons) Computing ( Software Engineering Pathiway )** at **NIBM Sri Lanka** (2023–2027)\
+🎓 Pursuing **BSc (Hons) Computing ( Software Engineering Pathiway )** at **NIBM Sri Lanka** (2023–2027)
 ---
 
 ### 🌐 Connect with Me
