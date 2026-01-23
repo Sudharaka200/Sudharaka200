@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sudharaka Pathiraja
 
 **Software Engineer**  
-Negombo, Western Province, Sri Lanka
+Colombo, Western Province, Sri Lanka
 
 Passionate about building full-stack applications that are clean, scalable, and user-friendly. I love blending creative frontend design with robust backend solutions to solve real-world problems.
 
