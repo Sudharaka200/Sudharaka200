@@ -31,23 +31,6 @@ I care deeply about writing clean, maintainable code and delivering solutions th
 - Database Design & Optimization
 - Cloud Deployment & DevOps
 
-## 🛠️ Tech Stack & Tools
-
-**Languages**  
-Python • JavaScript • TypeScript
-
-**Frontend**  
-React • HTML5 • CSS3 • Tailwind CSS
-
-**Backend**  
-Node.js • Express.js
-
-**Databases**  
-MongoDB • MySQL
-
-**Tools & Platforms**  
-Git • GitHub • Docker • AWS (basics) • VS Code • Postman
-
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sudharaka13&show_icons=true&theme=light&hide_border=true&count_private=true" alt="Sudharaka's GitHub Stats" />
