@@ -29,7 +29,7 @@ I care deeply about writing clean, maintainable code and delivering solutions th
 - Frontend UI/UX Design
 - Backend Architecture & APIs
 - Database Design & Optimization
-- Cloud Deployment & DevOps Basics
+- Cloud Deployment & DevOps
 
 ## 🛠️ Tech Stack & Tools
 
