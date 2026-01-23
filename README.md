@@ -1,56 +1,64 @@
-# Hi, I'm Sudharaka Pathiraja 👋
+# 👋 Hi, I'm Sudharaka Pathiraja
 
-### Software Engineer | Full-Stack Developer
+**Software Engineer**  
+Negombo, Western Province, Sri Lanka
 
-Building scalable web applications with modern technologies. Passionate about clean code, intuitive design, and innovative solutions.
+Passionate about building full-stack applications that are clean, scalable, and user-friendly. I love blending creative frontend design with robust backend solutions to solve real-world problems.
 
----
+🌐 **Portfolio:** [sudharakapathiraja.me](https://sudharakapathiraja.me)  
+📧 **Email:** [sudharakadulanjith200@gmail.com](mailto:sudharakadulanjith200@gmail.com)  
+☎️ **Phone:** +94 71 985 9294
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 💼 Full-stack developer specializing in web technologies
-- 🎨 Strong focus on UI/UX design and frontend excellence
-- 🌱 Always learning and exploring new technologies
-- 📍 Based in Sri Lanka
+I'm a dedicated Software Engineer with experience across the full stack. I enjoy turning ideas into functional products — from designing intuitive UIs to implementing efficient backend logic and databases.
 
-## 📫 Get In Touch
+Over the years, I've:
 
-- **Email:** sudharakadulanjith200@gmail.com
-- **Phone:** +94 71 985 9294
-- **Portfolio:** [sudharakapathiraja.me](https://sudharakapathiraja.me)
+- Built responsive web applications using modern frontend frameworks.
+- Developed RESTful APIs and backend services with Node.js and Express.
+- Worked with both SQL and NoSQL databases for optimal data handling.
+- Deployed applications using Docker and cloud platforms.
+- Continuously learned and adapted to new tools and best practices.
 
-## 💻 Tech Stack
+I care deeply about writing clean, maintainable code and delivering solutions that provide real value.
 
-**Frontend**  
-React • Next.js • Angular • TypeScript • Tailwind CSS • Bootstrap
+## 🛠️ Areas of Expertise
 
-**Backend**  
-Node.js • Express.js • Spring Boot • .NET • Laravel • PHP
+- Full-Stack Web Development
+- Frontend UI/UX Design
+- Backend Architecture & APIs
+- Database Design & Optimization
+- Cloud Deployment & DevOps Basics
 
-**Database**  
-MySQL • MongoDB • Firebase • Oracle
+## 🛠️ Tech Stack & Tools
 
 **Languages**  
-JavaScript • Python • Java • C# • C • PHP
+Python • JavaScript • TypeScript
 
-**Tools & Cloud**  
-Git • Docker • AWS • Azure • Figma
+**Frontend**  
+React • HTML5 • CSS3 • Tailwind CSS
 
----
+**Backend**  
+Node.js • Express.js
 
-## 📊 GitHub Analytics
+**Databases**  
+MongoDB • MySQL
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sudharaka200&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharaka200&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+**Tools & Platforms**  
+Git • GitHub • Docker • AWS (basics) • VS Code • Postman
 
----
+## 📊 GitHub Stats
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=sudharaka200&color=blueviolet&style=flat-square)
-  
-  *"Clean code always looks like it was written by someone who cares."*
-  
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Sudharaka13&show_icons=true&theme=light&hide_border=true&count_private=true" alt="Sudharaka's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharaka13&layout=compact&theme=light&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudharaka13&theme=light&hide_border=true" alt="GitHub Streak" />
+
+## 🌍 Find Me Around the Web
+
+- 💼 LinkedIn: [Sudharaka Pathiraja](https://www.linkedin.com/in/your-linkedin) <!-- Update with your actual LinkedIn URL -->
+- 🐦 X/Twitter: [@Sudharaka13](https://twitter.com/Sudharaka13)
+
+If you're working on an interesting project or just want to connect, feel free to reach out. Always open to collaborations and new opportunities! 🚀
