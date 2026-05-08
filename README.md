@@ -1,47 +1,135 @@
-# 👋 Hi, I'm Sudharaka Pathiraja
+<div align="center">
 
-**Software Engineer**  
-Colombo, Western Province, Sri Lanka
+# Sudharaka Pathiraja
 
-Passionate about building full-stack applications that are clean, scalable, and user-friendly. I love blending creative frontend design with robust backend solutions to solve real-world problems.
+### Software Engineer • DevOps Engineer • Freelancer
 
-🌐 **Portfolio:** [sudharakapathiraja.me](https://sudharakapathiraja.me)  
-📧 **Email:** [sudharakadulanjith200@gmail.com](mailto:sudharakadulanjith200@gmail.com)  
-☎️ **Phone:** +94 71 985 9294
+<p>
+Building scalable applications, modern user experiences, and cloud-native solutions.
+</p>
 
-## 🧠 About Me
+<p>
+<a href="https://sudharakapathiraja.me">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-I'm a dedicated Software Engineer with experience across the full stack. I enjoy turning ideas into functional products — from designing intuitive UIs to implementing efficient backend logic and databases.
+<a href="mailto:sudharakadulanjith200@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-Over the years, I've:
+<a href="https://www.linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-- Built responsive web applications using modern frontend frameworks.
-- Developed RESTful APIs and backend services with Node.js and Express.
-- Worked with both SQL and NoSQL databases for optimal data handling.
-- Deployed applications using Docker and cloud platforms.
-- Continuously learned and adapted to new tools and best practices.
+<a href="https://github.com/Sudharaka200">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-I care deeply about writing clean, maintainable code and delivering solutions that provide real value.
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=750&lines=Software+Engineer;DevOps+Engineer;Freelancer;Full-Stack+Developer;Cloud+%26+Docker+Enthusiast" alt="Typing SVG" />
 
-## 🛠️ Areas of Expertise
+</div>
 
-- Full-Stack Web Development
-- Frontend UI/UX Design
-- Backend Architecture & APIs
-- Database Design & Optimization
-- Cloud Deployment & DevOps
+---
 
-## 📊 GitHub Stats
+# About Me
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sudharaka13&show_icons=true&theme=light&hide_border=true&count_private=true" alt="Sudharaka's GitHub Stats" />
+I am a passionate Software Engineer, DevOps Engineer, and Freelancer with experience building scalable web and mobile applications. I focus on developing modern, maintainable, and high-performance solutions while combining strong frontend experiences with reliable backend systems and cloud infrastructure.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharaka13&layout=compact&theme=light&hide_border=true" alt="Top Languages" />
+My experience includes:
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudharaka13&theme=light&hide_border=true" alt="GitHub Streak" />
+- Full-stack web application development
+- RESTful API development and backend architecture
+- Cloud deployment and DevOps workflows
+- Docker containerization and CI/CD automation
+- Responsive UI/UX implementation
+- Database design and optimization
 
-## 🌍 Find Me Around the Web
+I enjoy solving real-world problems through technology and continuously improving my skills in software engineering and cloud technologies.
 
-- 💼 LinkedIn: [Sudharaka Pathiraja](https://www.linkedin.com/in/your-linkedin) <!-- Update with your actual LinkedIn URL -->
-- 🐦 X/Twitter: [@Sudharaka13](https://twitter.com/Sudharaka13)
+---
 
-If you're working on an interesting project or just want to connect, feel free to reach out. Always open to collaborations and new opportunities! 🚀
+# Technology Stack
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,js,ts" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,php" />
+</p>
+
+## Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
+
+## DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,githubactions" />
+</p>
+
+## Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sudharaka200&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharaka200&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudharaka200&theme=github_dark" />
+
+</div>
+
+---
+
+# Professional Interests
+
+- Full-Stack Application Development
+- DevOps Engineering & Automation
+- Cloud Infrastructure & Deployment
+- Scalable Backend Systems
+- Mobile Application Development
+- Freelance Software Development
+
+---
+
+# Current Focus
+
+- Building scalable cloud-native applications
+- Improving CI/CD and deployment pipelines
+- Learning advanced Kubernetes workflows
+- Developing modern Flutter applications
+- Expanding freelance software engineering services
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Sudharaka200&label=Profile%20Views&color=0A66C2&style=flat" />
+
+</div>
