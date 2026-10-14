@@ -86,16 +86,6 @@ I'm currently available for **freelance software development and DevOps engageme
 ![Vault](https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## Featured Projects
-
-<!-- Replace each entry with a real project. Pin your best 4–6 repositories on your profile too. -->
-
-| Project | Description | Stack |
-|---|---|---|
-| **[Project Name](https://github.com/Sudharaka200/repo-name)** | One sentence on what it does and the problem it solves. | React · Node.js · Docker |
-| **[Project Name](https://github.com/Sudharaka200/repo-name)** | One sentence on what it does and the problem it solves. | Flutter · Firebase |
-| **[Project Name](https://github.com/Sudharaka200/repo-name)** | One sentence on what it does and the problem it solves. | Terraform · AWS · GitHub Actions |
-
 ## Current Focus
 
 - Building cloud-native applications with resilient CI/CD pipelines
@@ -108,6 +98,10 @@ I'm currently available for **freelance software development and DevOps engageme
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sudharaka200&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharaka200&layout=compact&theme=github_dark&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sudharaka200&theme=github-dark-blue&hide_border=true"/>
 </div>
 
 ## Work With Me
