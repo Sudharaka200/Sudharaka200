@@ -1,158 +1,117 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Sudharaka+Pathiraja;Software+Engineer+%7C+DevOps+Engineer;Freelance+Full-Stack+Developer;Cloud+%26+Container+Enthusiast" alt="Typing SVG" />
+# Sudharaka Pathiraja
 
-<br/>
+### Software Engineer · DevOps Engineer · Freelance Full-Stack Developer
 
-### Software Engineer • DevOps Engineer • Freelancer
-Building scalable applications, resilient cloud infrastructure, and modern user experiences.
+Building scalable applications, resilient cloud infrastructure, and automated delivery pipelines.
 
 <p>
-  <a href="https://sudharakapathiraja.me">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:sudharakadulanjith200@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Sudharaka200">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://sudharakapathiraja.me"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sudharakadulanjith200@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Sudharaka200"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=Sudharaka200&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
 
 </div>
 
-<br/>
+---
 
-## 👨‍💻 About Me
+## About
 
-I'm a passionate **Software Engineer**, **DevOps Engineer**, and **Freelancer** with hands-on experience building scalable web and mobile applications, and automating the infrastructure that runs them. I like combining solid frontend experiences with reliable backend systems, containerized deployments, and cloud-native pipelines.
+I'm a software and DevOps engineer who builds web and mobile applications and the infrastructure that runs them. My work spans the full delivery lifecycle: designing clean frontends, building reliable backend services, containerising workloads, and automating deployments with CI/CD and Infrastructure as Code.
 
-- 🔭 Currently building **scalable cloud-native applications** and refining **CI/CD pipelines**
-- ☁️ Deep diving into **Kubernetes**, **Infrastructure as Code**, and **observability tooling**
-- 📱 Actively developing cross-platform apps with **Flutter**
-- 💼 Available for **freelance software & DevOps engagements**
-- ⚡ Fun fact: I enjoy turning messy deployment processes into one-click pipelines
+I'm currently available for **freelance software development and DevOps engagements**.
 
-<br/>
+## What I Do
 
-## 🧰 Technology Stack
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,js,ts,redux"/>
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,php,graphql,fastapi,python"/>
-</p>
-
-### Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio"/>
-</p>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,sqlite"/>
-</p>
-
-### DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,terraform,ansible,jenkins,githubactions,linux,nginx,grafana,prometheus,gitlab,vagrant,helm"/>
-</p>
-
-### Monitoring, Networking & Security
-<p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HAProxy-106DA9?style=for-the-badge&logo=haproxy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white"/>
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,bitbucket,jira,slack"/>
-</p>
-
-<br/>
-
-## ⚙️ DevOps Toolchain at a Glance
-
-| Category | Tools |
+| Area | Focus |
 |---|---|
-| **Containers & Orchestration** | Docker, Docker Compose, Kubernetes, Helm |
-| **CI/CD** | GitHub Actions, Jenkins, GitLab CI |
-| **Infrastructure as Code** | Terraform, Ansible, Vagrant |
-| **Cloud Providers** | AWS, Google Cloud Platform, Azure |
-| **Monitoring & Logging** | Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana) |
-| **Web Servers & Load Balancing** | Nginx, Apache, HAProxy |
-| **Version Control & Collaboration** | Git, GitHub, GitLab, Bitbucket |
-| **Security & Secrets Management** | HashiCorp Vault, SSL/TLS, IAM policies |
-| **Operating Systems** | Linux (Ubuntu, CentOS), Bash Scripting |
+| **Full-Stack Development** | Responsive web apps and APIs with React, Next.js, Node.js, Spring Boot, and FastAPI |
+| **DevOps & Automation** | CI/CD pipelines, containerisation, release automation, and environment management |
+| **Cloud & Infrastructure** | Cloud-native deployments on AWS, GCP, and Azure using Terraform and Ansible |
+| **Mobile Development** | Cross-platform apps with Flutter and Firebase |
+| **Observability** | Monitoring, logging, and alerting with Prometheus, Grafana, and the ELK Stack |
 
-<br/>
+## Tech Stack
 
-## 📊 GitHub Analytics
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Mobile**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**DevOps & Cloud**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+**Monitoring, Networking & Security**  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![HAProxy](https://img.shields.io/badge/HAProxy-106DA9?style=flat-square&logo=haproxy&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## Featured Projects
+
+<!-- Replace each entry with a real project. Pin your best 4–6 repositories on your profile too. -->
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Project Name](https://github.com/Sudharaka200/repo-name)** | One sentence on what it does and the problem it solves. | React · Node.js · Docker |
+| **[Project Name](https://github.com/Sudharaka200/repo-name)** | One sentence on what it does and the problem it solves. | Flutter · Firebase |
+| **[Project Name](https://github.com/Sudharaka200/repo-name)** | One sentence on what it does and the problem it solves. | Terraform · AWS · GitHub Actions |
+
+## Current Focus
+
+- Building cloud-native applications with resilient CI/CD pipelines
+- Advanced Kubernetes workflows and Helm chart design
+- Infrastructure provisioning and configuration with Terraform and Ansible
+- Cross-platform mobile development with Flutter
+
+## GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sudharaka200&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharaka200&layout=compact&theme=github_dark&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudharaka200&theme=github-dark-blue&hide_border=true"/>
-</div>
+## Work With Me
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudharaka200&theme=github_dark"/>
-</div>
+Open to freelance projects in software engineering and DevOps, including web and mobile app development, CI/CD setup, containerisation, and cloud infrastructure automation.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudharaka200&theme=github-compact&hide_border=true"/>
-</div>
-
-<br/>
-
-## 🎯 Professional Interests
-
-- Full-Stack Application Development
-- DevOps Engineering & Infrastructure Automation
-- Cloud Architecture & Scalable Deployment
-- Container Orchestration & Microservices
-- Mobile Application Development
-- Freelance Software & DevOps Consulting
-
-<br/>
-
-## 🚀 Current Focus
-
-- Building scalable, cloud-native applications with resilient CI/CD pipelines
-- Deepening expertise in advanced **Kubernetes** workflows and **Helm** charts
-- Automating infrastructure provisioning with **Terraform** and **Ansible**
-- Developing modern cross-platform apps with **Flutter**
-- Expanding freelance software & DevOps engineering services
-
-<br/>
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://sudharakapathiraja.me">Portfolio</a> •
-  <a href="mailto:sudharakadulanjith200@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a> •
-  <a href="https://github.com/Sudharaka200">GitHub</a>
-</p>
-
-<div align="center">
-
-⭐️ *Open to freelance opportunities in Software Engineering & DevOps* ⭐️
-
-</div>
+**Email:** [sudharakadulanjith200@gmail.com](mailto:sudharakadulanjith200@gmail.com) · **Portfolio:** [sudharakapathiraja.me](https://sudharakapathiraja.me)
